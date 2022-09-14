@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	overflow: scroll;
+	background-color: #272727;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#principal {
+	height: auto;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#cabecera {
+	height: 150px;
+	width: 1000px;
+	background-color: #272727;
+}
+#menu {
+	height: 36px;
+	width: 1000px;
+	background-color: #272727;
+}
+#centroprincipal {
+	height: auto;
+	width: 1000px;
+	background-color: #272727;
+}
+#pie {
+	height: 30px;
+	width: 1000px;
+	background-color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#principal #centroprincipal div table tr td p {
+	font-family: Times New Roman, Times, serif;
+	background-color: #272727;
+}
+#principal #centroprincipal div table tr td h3 {
+	font-family: Times New Roman, Times, serif;
+}
+#principal #centroprincipal div table tr td ul {
+	font-family: Times New Roman, Times, serif;
+}

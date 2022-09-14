@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="800" maxImageHeight="800" textColor="0xFFFFFF" frameColor="0xA6A6A6" frameWidth="1" stagePadding="5" thumbnailColumns="3" thumbnailRows="6" navPosition="left" title="" enableRightClickOpen="true" backgroundImagePath="" imagePath="images/" thumbPath="thumb/">
+<image>
+<filename>Acentor_com_n_Prunella_modularis.jpg</filename>
+<caption>Acentor común -  Prunella modularis</caption>
+</image>
+<image>
+<filename>Acentor_com_n_Prunella_modularis_II.jpg</filename>
+<caption>Acentor común - Prunella modularis II</caption>
+</image>
+<image>
+<filename>Agateador_Com_n_Certhia_brachydactyla_II.jpg</filename>
+<caption>Agateador Común - Certhia brachydactyla II</caption>
+</image>
+<image>
+<filename>Agateador_Com_n_Certhia_brachydactyla.jpg</filename>
+<caption>Agateador Común - Certhia brachydactyla</caption>
+</image>
+<image>
+<filename>Alcaud_n_dorsirrojo_Lanius_collurio_II.jpg</filename>
+<caption>Alcaudón dorsirrojo - Lanius collurio II</caption>
+</image>
+<image>
+<filename>Alcaud_n_dorsirrojo_Lanius_collurio.jpg</filename>
+<caption>Alcaudón dorsirrojo - Lanius collurio</caption>
+</image>
+<image>
+<filename>Alimoche_Com_n_Neophron_percnopterus.jpg</filename>
+<caption>Alimoche Común - Neophron percnopterus</caption>
+</image>
+<image>
+<filename>Alondra_Com_n_Alauda_arvensis_II.jpg</filename>
+<caption>Alondra Común - Alauda arvensis II</caption>
+</image>
+<image>
+<filename>Alondra_Com_n_Alauda_arvensis.jpg</filename>
+<caption>Alondra Común - Alauda arvensis</caption>
+</image>
+<image>
+<filename>Alondra_Com_n_Alauda_arvensis_III.jpg</filename>
+<caption>Alondra-Común-Alauda arvensis III</caption>
+</image>
+<image>
+<filename>alondra_totov_a_Lullula_arborea.jpg</filename>
+<caption>alondra-totovía-Lullula arborea</caption>
+</image>
+<image>
+<filename>Arrendajo_Garrulus_glandarius_II.jpg</filename>
+<caption>Arrendajo - Garrulus glandarius II</caption>
+</image>
+<image>
+<filename>Arrendajo_Garrulus_glandarius.jpg</filename>
+<caption>Arrendajo - Garrulus glandarius</caption>
+</image>
+<image>
+<filename>Arrendajo_Garrulus_gandarios_III.jpg</filename>
+<caption>Arrendajo-Garrulus gandarios III</caption>
+</image>
+<image>
+<filename>Bisbita_alpino_Anthus_spinoletta.jpg</filename>
+<caption>Bisbita alpino - Anthus spinoletta</caption>
+</image>
+<image>
+<filename>Bisbita_Arb_reo_Anthus_trivialis.jpg</filename>
+<caption>Bisbita Arbóreo - Anthus trivialis</caption>
+</image>
+<image>
+<filename>Bisbita_pratense_Anthus_pratensis.jpg</filename>
+<caption>Bisbita pratense - Anthus pratensis</caption>
+</image>
+<image>
+<filename>Bisbita_campestre__Anthus_campestris.jpg</filename>
+<caption>Bisbita-campestre _Anthus campestris</caption>
+</image>
+<image>
+<filename>Busardo_Ratonero_Buteo_buteo_II.jpg</filename>
+<caption>Busardo Ratonero - Buteo buteo II</caption>
+</image>
+<image>
+<filename>Busardo_Ratonero_Buteo_buteo.jpg</filename>
+<caption>Busardo Ratonero - Buteo buteo</caption>
+</image>
+<image>
+<filename>Camachuelo_com_n_hembra_Pyrrhula_pyrrhula.jpg</filename>
+<caption>Camachuelo común hembra - Pyrrhula pyrrhula</caption>
+</image>
+<image>
+<filename>Camachuelo_com_n_macho_Pyrrhula_pyrrhula_II.jpg</filename>
+<caption>Camachuelo común macho - Pyrrhula pyrrhula  II</caption>
+</image>
+<image>
+<filename>Camachuelo_com_n_macho_Pyrrhula_pyrrhula_III.jpg</filename>
+<caption>Camachuelo común macho - Pyrrhula pyrrhula III</caption>
+</image>
+<image>
+<filename>Camachuelo_com_n_macho_Pyrrhula_pyrrhula.jpg</filename>
+<caption>Camachuelo común macho - Pyrrhula pyrrhula</caption>
+</image>
+<image>
+<filename>Carbonero_com_n_Parus_major.jpg</filename>
+<caption>Carbonero común - Parus major</caption>
+</image>
+<image>
+<filename>Carbonero_garrapinos_Parus_ater.jpg</filename>
+<caption>Carbonero garrapinos - Parus ater</caption>
+</image>
+<image>
+<filename>Carbonero_palustre_Parus_palustris_II.jpg</filename>
+<caption>Carbonero palustre - Parus palustris II</caption>
+</image>
+<image>
+<filename>Carbonero_palustre_Parus_palustris.jpg</filename>
+<caption>Carbonero palustre - Parus palustris</caption>
+</image>
+<image>
+<filename>Cern_calo_vulgar_macho_Falco_tinnunculus.jpg</filename>
+<caption>Cernícalo vulgar-macho - Falco tinnunculus</caption>
+</image>
+<image>
+<filename>Codorniz_Com_n_macho_Coturnix_coturnix_II.jpg</filename>
+<caption>Codorniz Común macho - Coturnix coturnix II</caption>
+</image>
+<image>
+<filename>Codorniz_Com_n_macho_Coturnix_coturnix.jpg</filename>
+<caption>Codorniz Común macho - Coturnix coturnix</caption>
+</image>
+<image>
+<filename>Collalba_gris_macho_Oenanthe_oenanthe.jpg</filename>
+<caption>Collalba gris macho - Oenanthe oenanthe</caption>
+</image>
+<image>
+<filename>Corneja_negra_Corvus_corone.jpg</filename>
+<caption>Corneja negra - Corvus corone</caption>
+</image>
+<image>
+<filename>cr_alo_Clamator_glandarius.jpg</filename>
+<caption>críalo - Clamator glandarius</caption>
+</image>
+<image>
+<filename>cuco_Cuculus_canorus.jpg</filename>
+<caption>cuco - Cuculus canorus</caption>
+</image>
+<image>
+<filename>Curruca_capirotada_hembra_Sylvia_atricapilla.jpg</filename>
+<caption>Curruca capirotada hembra - Sylvia atricapilla</caption>
+</image>
+<image>
+<filename>Curruca_capirotada_macho_Sylvia_atricapilla.jpg</filename>
+<caption>Curruca capirotada macho Sylvia atricapilla</caption>
+</image>
+<image>
+<filename>Curruca_zarcera_macho_Sylvia_communis_II.jpg</filename>
+<caption>Curruca zarcera macho - Sylvia communis II</caption>
+</image>
+<image>
+<filename>Curruca_zarcera_macho_Sylvia_communis.jpg</filename>
+<caption>Curruca zarcera macho - Sylvia communis</caption>
+</image>
+<image>
+<filename>curruca_rabilarga_Sylvia_undata.jpg</filename>
+<caption>curruca-rabilarga-Sylvia undata</caption>
+</image>
+<image>
+<filename>Escribano_cerillo_macho_Emberiza_citrinella_II.jpg</filename>
+<caption>Escribano cerillo macho - Emberiza citrinella II</caption>
+</image>
+<image>
+<filename>Escribano_cerillo_macho_Emberiza_citrinella.jpg</filename>
+<caption>Escribano cerillo macho - Emberiza citrinella</caption>
+</image>
+<image>
+<filename>Escribano_Montesino_macho_Emberiza_cia.jpg</filename>
+<caption>Escribano Montesino macho - Emberiza cia</caption>
+</image>
+<image>
+<filename>Escribano_sote_o_macho_Emberiza_cirlus.jpg</filename>
+<caption>Escribano soteño - macho Emberiza cirlus</caption>
+</image>
+<image>
+<filename>Escribano_triguero_Emberiza_calandra.jpg</filename>
+<caption>Escribano triguero - Emberiza calandra</caption>
+</image>
+<image>
+<filename>Escribano_triguero_Emberiza_calandra_II.jpg</filename>
+<caption>Escribano-triguero-Emberiza calandra II</caption>
+</image>
+<image>
+<filename>estornino_negro_Sturnus_unicolor.jpg</filename>
+<caption>estornino negro - Sturnus unicolor</caption>
+</image>
+<image>
+<filename>Gavil_n_Com_n_Accipiter_nisus_II.jpg</filename>
+<caption>Gavilán Común - Accipiter nisus II</caption>
+</image>
+<image>
+<filename>Gavil_n_Com_n_Accipiter_nisus.jpg</filename>
+<caption>Gavilán Común - Accipiter nisus</caption>
+</image>
+<image>
+<filename>Gorri_n_com_n_hembra_Passer_domesticus.jpg</filename>
+<caption>Gorrión común hembra - Passer domesticus</caption>
+</image>
+<image>
+<filename>Gorri_n_com_n_macho_Passer_domesticus.jpg</filename>
+<caption>Gorrión común macho - Passer domesticus</caption>
+</image>
+<image>
+<filename>Herrerillo_com_n_Parus_caeruleus.jpg</filename>
+<caption>Herrerillo común - Parus caeruleus</caption>
+</image>
+<image>
+<filename>Jilguero_Carduelis_carduelis_II.jpg</filename>
+<caption>Jilguero - Carduelis carduelis II</caption>
+</image>
+<image>
+<filename>Jilguero_Carduelis_carduelis.jpg</filename>
+<caption>Jilguero - Carduelis carduelis</caption>
+</image>
+<image>
+<filename>L_gano_hembra_Carduelis_spinus.jpg</filename>
+<caption>Lúgano hembra - Carduelis spinus</caption>
+</image>
+<image>
+<filename>L_gano_macho_Carduelis_spinus.jpg</filename>
+<caption>Lúgano macho - Carduelis spinus</caption>
+</image>
+<image>
+<filename>Mirlo_acu_tico_Cinclus_cinclus_II.jpg</filename>
+<caption>Mirlo acuático - Cinclus cinclus II</caption>
+</image>
+<image>
+<filename>Mirlo_acu_tico_Cinclus_cinclus.jpg</filename>
+<caption>Mirlo acuático - Cinclus cinclus</caption>
+</image>
+<image>
+<filename>Mirlo_acu_tico_Cinclus_cinclus_II_1.jpg</filename>
+<caption>Mirlo acuático-Cinclus cinclus II</caption>
+</image>
+<image>
+<filename>Mirlo_acu_tico_Cinclus_cinclus_III.jpg</filename>
+<caption>Mirlo acuático-Cinclus cinclus III</caption>
+</image>
+<image>
+<filename>Mirlo_com_n_macho_Turdus_merula.jpg</filename>
+<caption>Mirlo común  macho - Turdus merula</caption>
+</image>
+<image>
+<filename>Mirlo_com_n_hembra_Turdus_merula.jpg</filename>
+<caption>Mirlo común hembra - Turdus merula</caption>
+</image>
+<image>
+<filename>Mosquitero_Ib_rico_Phylloscopus_ibericus.jpg</filename>
+<caption>Mosquitero Ibérico - Phylloscopus ibericus</caption>
+</image>
+<image>
+<filename>Papamoscas_cerrojillo_Ficedula_hypoleuca.jpg</filename>
+<caption>Papamoscas cerrojillo - Ficedula hypoleuca</caption>
+</image>
+<image>
+<filename>Papamoscas_gris_Muscicapa_striata.jpg</filename>
+<caption>Papamoscas gris - Muscicapa striata</caption>
+</image>
+<image>
+<filename>Petirrojo_Erithacus_rubecula_II.jpg</filename>
+<caption>Petirrojo - Erithacus rubecula II</caption>
+</image>
+<image>
+<filename>Petirrojo_Erithacus_rubecula.jpg</filename>
+<caption>Petirrojo - Erithacus rubecula</caption>
+</image>
+<image>
+<filename>Picamaderos_negro_macho_Dryocopus_martius.jpg</filename>
+<caption>Picamaderos-negro - macho Dryocopus martius</caption>
+</image>
+<image>
+<filename>Picamaderos_negro_macho_Dryocopus_martius_II.jpg</filename>
+<caption>Picamaderos-negro -macho  Dryocopus martius II</caption>
+</image>
+<image>
+<filename>Picamaderos_negro_ceba_Dryocopus_martius_II.jpg</filename>
+<caption>Picamaderos-negro-ceba-Dryocopus martius II</caption>
+</image>
+<image>
+<filename>Picamaderos_negro_ceba_Dryocopus_martius.jpg</filename>
+<caption>Picamaderos-negro-ceba-Dryocopus martius</caption>
+</image>
+<image>
+<filename>picamaderos_negro_hembra_Dryocopus_martius_II.jpg</filename>
+<caption>picamaderos-negro-hembra-Dryocopus martius II</caption>
+</image>
+<image>
+<filename>picamaderos_negro_hembra_Dryocopus_martius.jpg</filename>
+<caption>picamaderos-negro-hembra-Dryocopus martius</caption>
+</image>
+<image>
+<filename>Picogordo_hembra_Coccothraustes_coccothraustes.jpg</filename>
+<caption>Picogordo hembra - Coccothraustes coccothraustes</caption>
+</image>
+<image>
+<filename>Picogordo_macho_Coccothraustes_coccothraustes_II.jpg</filename>
+<caption>Picogordo macho - Coccothraustes coccothraustes II</caption>
+</image>
+<image>
+<filename>Picogordo_macho_Coccothraustes_coccothraustes.jpg</filename>
+<caption>Picogordo macho - Coccothraustes coccothraustes</caption>
+</image>
+<image>
+<filename>Pinz_n_Real_hembra_Fringilla_montifringilla_II.jpg</filename>
+<caption>Pinzón Real hembra - Fringilla montifringilla II</caption>
+</image>
+<image>
+<filename>Pinz_n_Real_hembra_Fringilla_montifringilla.jpg</filename>
+<caption>Pinzón Real hembra - Fringilla montifringilla</caption>
+</image>
+<image>
+<filename>Pinz_n_Real_macho_Fringilla_montifringilla_II.jpg</filename>
+<caption>Pinzón Real macho - Fringilla montifringilla II</caption>
+</image>
+<image>
+<filename>Pinz_n_Real_macho_Fringilla_montifringilla.jpg</filename>
+<caption>Pinzón Real macho - Fringilla montifringilla</caption>
+</image>
+<image>
+<filename>pinz_n_vulgar_hembra_Fringilla_coelebs.jpg</filename>
+<caption>pinzón vulgar hembra - Fringilla coelebs</caption>
+</image>
+<image>
+<filename>pinz_n_vulgar_macho_Fringilla_coelebs.jpg</filename>
+<caption>pinzón vulgar macho - Fringilla coelebs</caption>
+</image>
+<image>
+<filename>Reyezuelo_Listado_Regulus_ignicapilla.jpg</filename>
+<caption>Reyezuelo Listado - Regulus ignicapilla</caption>
+</image>
+<image>
+<filename>Reyezuelo_Listado_macho_Regulus_ignicapilla_II.jpg</filename>
+<caption>Reyezuelo Listado macho - Regulus ignicapilla II</caption>
+</image>
+<image>
+<filename>Roquero_Rojo_macho_Monticola_saxatilis_II.jpg</filename>
+<caption>Roquero Rojo macho - Monticola saxatilis II</caption>
+</image>
+<image>
+<filename>Roquero_Rojo_macho_Monticola_saxatilis.jpg</filename>
+<caption>Roquero Rojo macho - Monticola saxatilis</caption>
+</image>
+<image>
+<filename>Tarabilla_Com_n_hembra_Saxicola_torquatus.jpg</filename>
+<caption>Tarabilla Común hembra - Saxicola torquatus</caption>
+</image>
+<image>
+<filename>Tarabilla_Com_n_macho_Saxicola_torquatus_II.jpg</filename>
+<caption>Tarabilla Común macho - Saxicola torquatus II</caption>
+</image>
+<image>
+<filename>Tarabilla_Com_n_macho_Saxicola_torquatus.jpg</filename>
+<caption>Tarabilla Común macho - Saxicola torquatus</caption>
+</image>
+<image>
+<filename>Tarabilla_Norte_a_Saxicola_rubetra.jpg</filename>
+<caption>Tarabilla Norteña - Saxicola rubetra</caption>
+</image>
+<image>
+<filename>Torcecuello_Jynx_torquilla_II.jpg</filename>
+<caption>Torcecuello - Jynx torquilla II</caption>
+</image>
+<image>
+<filename>Torcecuello_Jynx_torquilla.jpg</filename>
+<caption>Torcecuello - Jynx torquilla</caption>
+</image>
+<image>
+<filename>T_rtola_Turca_Streptopelia_decaocto_II.jpg</filename>
+<caption>Tórtola Turca - Streptopelia decaocto II</caption>
+</image>
+<image>
+<filename>T_rtola_Turca_Streptopelia_decaocto.jpg</filename>
+<caption>Tórtola Turca - Streptopelia decaocto</caption>
+</image>
+<image>
+<filename>trepador_azul_Sitta_europaea.jpg</filename>
+<caption>trepador azul - Sitta europaea</caption>
+</image>
+<image>
+<filename>trepador_azul_Sitta_europaea_1.jpg</filename>
+<caption>trepador-azul-Sitta europaea</caption>
+</image>
+<image>
+<filename>verdecillo_macho_Serinus_serinus.jpg</filename>
+<caption>verdecillo macho - Serinus serinus</caption>
+</image>
+<image>
+<filename>Verder_n_Com_n_macho_Carduelis_chloris.jpg</filename>
+<caption>Verderón Común macho - Carduelis chloris</caption>
+</image>
+<image>
+<filename>Verder_n_Com_n_hembra_Carduelis_chloris.jpg</filename>
+<caption>Verderón Común-hembra - Carduelis chloris</caption>
+</image>
+<image>
+<filename>Zarcero_com_n_Hippolais_polyglotta_II.jpg</filename>
+<caption>Zarcero común - Hippolais polyglotta II</caption>
+</image>
+<image>
+<filename>Zarcero_com_n_Hippolais_polyglotta.jpg</filename>
+<caption>Zarcero común - Hippolais polyglotta</caption>
+</image>
+<image>
+<filename>Zorzal_Alirrojo_Turdus_iliacus_II.jpg</filename>
+<caption>Zorzal Alirrojo - Turdus iliacus II</caption>
+</image>
+<image>
+<filename>Zorzal_Alirrojo_Turdus_iliacus.jpg</filename>
+<caption>Zorzal Alirrojo - Turdus iliacus</caption>
+</image>
+<image>
+<filename>Zorzal_Com_n_Turdus_philomelos.jpg</filename>
+<caption>Zorzal Común - Turdus philomelos</caption>
+</image>
+<image>
+<filename>Zorzal_real_Turdus_pilaris.jpg</filename>
+<caption>Zorzal real - Turdus pilaris</caption>
+</image>
+</simpleviewerGallery>
